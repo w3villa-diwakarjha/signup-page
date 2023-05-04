@@ -88,6 +88,10 @@ i{
     font-size: 36px;
 }
 
+.social-media{
+    margin-bottom: 50px;
+}
+
 @media (max-width:1200px) {
     /* button,input{
         width: 80%;
